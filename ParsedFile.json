@@ -1,0 +1,45 @@
+{
+  "summary": [
+    {
+      "PROFILE": "\n\n• Accomplished Software Engineer with 5 years of experience in full stack development using Java, Spring, Hibernate,\n\nAngular and React involving all phases of Software Development Life Cycle (SDLC) and secure enterprise applications\n\nusing Java/J2EE technologies.\n\n• Proficient in Agile methodologies, ensuring collaborative, iterative development cycles. Skilled in writing clean,\n\nscalable code, adhering to industry best practices and design patterns.\n\n• Experienced in database management with MySQL and Oracle, implementing RESTful APIs for seamless front-end to\n\nback-end communication.\n\n• Experienced in Java/J2EE design patterns like Factory, DAO, Singleton and Prototype, transfer objects, Business\n\nDelegate, Proxy, and Model-View-Controller (MVC) in the development of enterprise level applications.\n\n• Strong problem-solving abilities, committed to continuous learning, and effective communication for cross-functional\n\ncollaboration, dedicated to delivering high-quality solutions exceeding customer expectations.\n\n• Skilled in web technologies including HTML5, CSS3, JSON, XML, JavaScript, jQuery, Bootstrap, AJAX, DOM,\n\nServlets, JDBC, JSP, Java Security and Collections.\n\n• Developed various web components such as JSPs, servlets, Filters, Custom Tag Handlers.\n\n• Implemented various AJAX frameworks like jQuery, DOJO, and JSON for enhanced interactivity and seamless\n\nintegration between front-end and back-end applications.\n\n• Expertise in backend development using Node JS, TestNG and Cucumber with a focus on building scalable and efficient\n\nserver-side applications.\n\n• Hands on experience with Selenium for test automation, ensuring high-quality software releases.\n\n• Comprehensive and extensive knowledge of the Spring framework including Spring MVC, Spring IOC, Spring AOP,\n\nSpring Boot, Spring Security and Spring Data JPA facilitating and securing enterprise level application development.\n\n• Developed microservices using Spring Boot and deploying Microservices.\n\n• Expertise in Middleware persistence frameworks like Hibernate/JPA entities for mapping Java Classes using Hibernate\n\nQuery Language (HQL), HSQL Named Criteria and Queries along with Projections.\n\n• Adept at using Hibernate for efficient data management and persistence in Java applications.\n\n• Proficient in developing and integrating web services using REST API and SOAP UI.\n\n• Skilled in Kubernetes and Docker for container orchestration and deployment enhancing development workflows.\n\n• Experience with Tomcat and HTTP, ensuring smooth and reliable web server operations.\n\n• Proficient with Git and GitHub for version control and familiar with development and project management tools like\n\nVS Code, Maven, Eclipse, and Jira.\n\n• Expertise in designing and implementing microservice architecture, contributing to modular and maintainable software\n\nsystems and has expertise in working on Windows and Mac OS, ensuring compatibility and performance across\n\ndifferent systems.\n\n"
+    }
+  ],
+  "education_and_training": [
+    {
+      "EDUCATION": "\n\nWright State University Fairborn, Ohio\n\nMaster’s in Computer Science\n\nRelevant Course Work Distributed Computing, Information Retrieval, Algorithm and Design Analysis CMR Engineering College Hyderabad, India\n\nBachelor of Technology\n\nRelevant Course Work C, C++, Java, Object-Oriented Programming, Python, Database Management\n\n"
+    }
+  ],
+  "skills": [
+    {
+      "Languages": " Java, Python, C, C++, Gherkins, SQL\n\nDatabases MySQL, Oracle, MongoDB, Postgre SQL, HSQL\n\nJ2EE and Web Technologies HTML5, CSS3, JSON, XML, JavaScript, jQuery, Bootstrap, AJAX, DOM, Servlets,\n\nJDBC, JSP, Java Security, Collections Frameworks and Libraries Angular JS, ReactJS, Node JS, Cucumber, Selenium, Spring, Spring MVC, Spring\n\nIOC, Spring AOP, Spring Boot, Spring Security, Spring Data JPA, Hibernate Networking and Others REST API, SOAP UI, Tomcat, HTTP, Postman, Microservices, Kubernetes, Docker\n\nTesting and Logging Tools Junit, JMeter, TestNG, Log4j, Mockito Source Code Management Git, GitHub, BitBucket, Subversion (SVN), Concurrent Versions System (CVS)\n\nWorkflow Tools VS Code, Maven, Eclipse, Jira\n\nOperating System Windows, Mac OS\n\nmailto:lakshkiran.i@gmail.com\n\n"
+    }
+  ],
+  "basics": {
+    "gender": "female",
+    "phone": [
+      "(937)397-1464"
+    ],
+    "name": {
+      "firstName": "Kiran",
+      "surname": "Ippili"
+    },
+    "title": "Software Engineer",
+    "email": [
+      "lakshkiran.i@gmail.com"
+    ]
+  },
+  "work_experience": [
+    {
+      "WORK EXPERIENCE": "\n\nRoyal Caribbean,\n\nMiami, US\n\nJava Full Stack "
+    },
+    {
+      "date_start": "Jan 2023",
+      "jobtitle": "Developer",
+      "date_end": "July 2024",
+      "text": "\n\n• Implemented and managed the various phases of Software Development Life Cycle (SDLC) applications including\n\nrequirement analysis, design, and code development.\n\n• Developed scalable web applications using HTML5, CSS3, Bootstrap, JavaScript, React.js for frontend\n\ndevelopment and used React Hooks for forms, events, routers, Redux, animations and hooks.\n\n• Developed Java modules implementing business rules and workflows using Spring MVC, IOC, and Web\n\nframeworks and worked on development of Hibernate, including mapping files, configuration file and classes to\n\ninteract with the database.\n\n• Used Spring Boot, which is radically faster in building Micro services and develop Spring based applications with\n\nvery less configuration and involved in refactoring the code for JVM Optimization and performance of\n\napplication.\n\n• Involved in Maven based build process and continuous integration of the project using Eclipse and VS Code.\n\n• Used SOAP web services and RESTful web services for transferring data between applications.\n\n• Integrated Java 21 with Spring framework for building scalable applications with dependency management.\n\n• Integrated OAuth 2.0 authentication for secure web applications and utilized Datadog for log management,\n\nmonitoring, and analysis of system logs.\n\n• Experienced in unit integration and functional testing using frameworks like Junit, Mockito, TestNG.\n\n• Created automated test scripts using Selenium WebDriver and TestNG for comprehensive testing of applications.\n\n• Worked on user interface enhancement, focusing on usability, and ensured web content is responsive and\n\ncompatible across various browsers and conducted thorough code reviews to perfect the code usage by 50%.\n\n• Improved maintainability by implementing APIs and optimized API calls to decrease memory usage by 60% and\n\nspeed up queries by 35%.\n\n• Involved in writing program documentation and technical specification documents.\n\nEnvironment and Tools:\n\nJava, J2EE, Spring v3.x, Spring MVC, Spring Security, Hibernate v3.0, Oracle DB, Angular JS, Node JS, Bootstrap, CSS,\n\nHTML5, JavaScript, jQuery, AJAX, Tomcat, Maven, JIRA, SOAP UI, RESTful API, WSDL, Spring Based Microservices,\n\nAgile, Cucumber, CI/CD, Docker, Kubernetes.\n\nCapgemini\n\nHyderabad, India\n\n"
+    },
+    {
+      "date_start": "August 2021",
+      "jobtitle": "Software Engineer",
+      "date_end": "May 2022",
+      "text": "\n\n• Utilized Java Collection Framework classes extensively to manage application objects and created highly\n\ninteractive web pages using AJAX, JavaScript, and React JS.\n\n• Worked as Lead Developer where it helps employees to access the training assigned by their respective Heads and\n\noptimized API calls to decrease memory usage by 60% and speed up query by 35%.\n\n• Developed a responsive single-page application (SPA) with React JS, JavaScript, HTML5, and CSS3, collaborating\n\nclosely with front-end UI team.\n\n• Applied the Spring Validator framework for both client-side and server-side validation and implemented dynamic\n\nJSP loading with AJAX.\n\n• Developed Angular JS controllers, custom directives, and filters to manage view data, and implemented Angular\n\nService calls using Angular Factory.\n\n• Designed and developed a SPA and a custom REST API using Angular JS
