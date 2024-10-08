@@ -108,6 +108,4 @@ curl --request POST 'http://localhost:8081/upload' \
 }
 ```
 
-#### Library References
-- GATE (https://gate.ac.uk/) - Open source language processing framework.
 
